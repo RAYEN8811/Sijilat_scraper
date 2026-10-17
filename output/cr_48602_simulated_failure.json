@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "cr_number": "48602",
+    "requested_branch": "1",
+    "source_url": "https://www.sijilat.bh/public-search-cr/search-cr-3.aspx?cr_no=48602&branch_no=1",
+    "api_endpoint": "https://api.sijilat.bh/api/CRdetails/CompleteCRDetails",
+    "collection_timestamp_utc": "2026-10-16T19:21:01.587290+00:00",
+    "processing_outcome": "SIMULATED_FAILURE",
+    "is_simulated": true,
+    "simulation_notes": "Explicitly simulated network connection timeout/server error for testing resilience.",
+    "branches_found_count": 0,
+    "branches_extracted_count": 0,
+    "elapsed_seconds": 0.0
+  },
+  "error_details": {
+    "error_type": "SimulatedUpstreamTimeout",
+    "error_message": "SIMULATED: Connection to https://api.sijilat.bh timed out after 15.0s",
+    "provenance": "EXTRACTION_ERROR"
+  },
+  "branches": []
+}

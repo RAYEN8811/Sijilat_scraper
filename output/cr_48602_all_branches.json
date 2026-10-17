@@ -1,0 +1,1879 @@
+{
+  "metadata": {
+    "cr_number": "48602",
+    "requested_branch": "1",
+    "source_url": "https://www.sijilat.bh/public-search-cr/search-cr-3.aspx?cr_no=48602&branch_no=1",
+    "api_endpoint": "https://api.sijilat.bh/api/CRdetails/CompleteCRDetails",
+    "collection_timestamp_utc": "2026-10-16T19:20:28.444384+00:00",
+    "processing_outcome": "SUCCESS",
+    "is_simulated": false,
+    "branches_found_count": 13,
+    "branches_extracted_count": 13,
+    "elapsed_seconds": 10.1428
+  },
+  "branch_catalog": [
+    {
+      "cr_number": "48602",
+      "branch_identifier": "1",
+      "branch_name": "BAPCO REFINING B.S.C CLOSED",
+      "status": "UNDER MORTGAGE",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2027"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "2",
+      "branch_name": "CENTRAL MARKET SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "3",
+      "branch_name": "AWALI SERVICE STATION",
+      "status": "DELETED WITH PAYMENT",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2022"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "4",
+      "branch_name": "ALHOORA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "5",
+      "branch_name": "ADLIYA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "6",
+      "branch_name": "RIFFA & SITRA SERVICE STATION",
+      "status": "DELETED WITH PAYMENT",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2022"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "7",
+      "branch_name": "BAHRAIN PETROLEUM COMPANY",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "8",
+      "branch_name": "TOOBLI SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "9",
+      "branch_name": "THE BAHRAIN PETROLEUM COMPANY B.S.C - CLOSED",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/03/2010",
+      "expiry_date": "01/03/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "10",
+      "branch_name": "ALRAWDAH SERVICES",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "18/01/2012",
+      "expiry_date": "18/01/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "11",
+      "branch_name": "WADEE HAYAN STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "23/10/2013",
+      "expiry_date": "23/10/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "12",
+      "branch_name": "NUZHA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "08/11/2016",
+      "expiry_date": "08/11/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "13",
+      "branch_name": "BAPCO REFINING B.S.C CLOSED",
+      "status": "ACTIVE",
+      "registration_date": "31/12/2024",
+      "expiry_date": "31/12/2026"
+    }
+  ],
+  "branches": [
+    {
+      "cr_number": "48602",
+      "branch_identifier": "1",
+      "commercial_name": {
+        "english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "UNDER MORTGAGE",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "245",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "4511",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "945",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "AWALI",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "grouplitigation.hq@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 245, Road 4511 (ROAD 2831), Block 945, AWALI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200419",
+            "isic4_code": "4661-5",
+            "isic4_parent_code": "4661",
+            "activity_name": "Sale/Trade of solid, liquid and gaseous fuels and related products - Exporting blended petroleum products.",
+            "activity_description": "This includes the export of blended petroleum products that incorporate supported petroleum products such as diesel and/or kerosene, or derivatives thereof. Please note that this activity does not involve used oils, lubricant waste, or non-petroleum lubricating oils."
+          },
+          {
+            "activity_code": "200075",
+            "isic4_code": "701-1",
+            "isic4_parent_code": "701",
+            "activity_name": "Activities of head offices or Management Offices",
+            "activity_description": "This activity includes the overseeing and managing of other units of the company or enterprise; undertaking the strategic or organizational planning and decision making role of the company or enterprise; exercising operational control and manage the day-to-day operations of their related units. \r\n\r\nThis activity includes activities of: \r\n- Head offices \r\n- Centralized administrative offices \r\n- Corporate offices \r\n- District and regional offices \r\n- Subsidiary management offices \r\n- Restaurants and Coffee-Shops Management\r\n\r\nThis class excludes: \r\n- Activities of holding companies, not engaged in managing"
+          },
+          {
+            "activity_code": "200416",
+            "isic4_code": "4661-2",
+            "isic4_parent_code": "4661",
+            "activity_name": "Sale/Trade of solid, liquid and gaseous fuels and related products - Specialty petroleum products import",
+            "activity_description": "This activity includes the import and re-export of racing fuel in its various types specially designed for high-performance engines and racing vehicle."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 3
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "2",
+      "commercial_name": {
+        "english": {
+          "value": "CENTRAL MARKET SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة السوق المركزى",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "00038",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "0013",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "313",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MANAMA/SUWAYFIYAH",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 00038, Road 0013 (ROAD 2831), Block 313, MANAMA/SUWAYFIYAH",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "3",
+      "commercial_name": {
+        "english": {
+          "value": "AWALI SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة عوالى",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "DELETED WITH PAYMENT",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2022",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "02000",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "0089",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "944",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "SAFRA",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 02000, Road 0089 (ROAD 2831), Block 944, SAFRA",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "4",
+      "commercial_name": {
+        "english": {
+          "value": "ALHOORA SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة الحوره",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "00030",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "0019",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "319",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MANAMA/AL HOORA",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 00030, Road 0019 (ROAD 2831), Block 319, MANAMA/AL HOORA",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "5",
+      "commercial_name": {
+        "english": {
+          "value": "ADLIYA SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة العدليه",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "00312",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "3411",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "334",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MANAMA/AL MAHOOZ",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 00312, Road 3411 (ROAD 2831), Block 334, MANAMA/AL MAHOOZ",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "6",
+      "commercial_name": {
+        "english": {
+          "value": "RIFFA & SITRA SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة الرفاع ستره",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "DELETED WITH PAYMENT",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2022",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "00132",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "3603",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "636",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MA'AMEER",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 00132, Road 3603 (ROAD 2831), Block 636, MA'AMEER",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "7",
+      "commercial_name": {
+        "english": {
+          "value": "BAHRAIN PETROLEUM COMPANY",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "شركة نفط البحرين ش.م.ب (مقفلة)",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "01170",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "0010",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "215",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MUHARRAQ TOWN",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 01170, Road 0010 (ROAD 2831), Block 215, MUHARRAQ TOWN",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "8",
+      "commercial_name": {
+        "english": {
+          "value": "TOOBLI SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة توبلى",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "00160",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "0013",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "711",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "TUBLI",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": "25504",
+          "provenance": "RETRIEVED"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 00160, Road 0013 (ROAD 2831), Block 711, TUBLI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "9",
+      "commercial_name": {
+        "english": {
+          "value": "THE BAHRAIN PETROLEUM COMPANY B.S.C - CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "شركة نفط البحرين ش.م.ب-مقفلة",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/03/2010",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/03/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "692",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "3615",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "R 3615",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "436",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "AL SEEF",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": "25555",
+          "provenance": "RETRIEVED"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "( +964 )",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 692, Road 3615 (R 3615), Block 436, AL SEEF",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "10",
+      "commercial_name": {
+        "english": {
+          "value": "ALRAWDAH SERVICES",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة الروضة للخدمات",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "18/01/2012",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "18/01/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "building": {
+          "value": "3189",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "951",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "R 951",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "1209",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "MADINAT HAMAD",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "( +36 )",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 3189, Road 951 (R 951), Block 1209, MADINAT HAMAD",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "11",
+      "commercial_name": {
+        "english": {
+          "value": "WADEE HAYAN STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة وادي حيان",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "23/10/2013",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "23/10/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "1551",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "99",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "KING HAMAD HIGHWAY",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "957",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "JAU",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "( +36 )",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 1551, Road 99 (KING HAMAD HIGHWAY), Block 957, JAU",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "12",
+      "commercial_name": {
+        "english": {
+          "value": "NUZHA SERVICE STATION",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "محطة النزهة للخدمات",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "SOLD OR LEGAL STATUS CHANGED",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "08/11/2016",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "08/11/2020",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "480",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "19",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "block": {
+          "value": "1215",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "مدينة حمد",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "othman.alkooheji@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": "( +973 )",
+          "provenance": "RETRIEVED"
+        },
+        "fax": {
+          "value": "( +973 )",
+          "provenance": "RETRIEVED"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 480, Road 19, Block 1215, مدينة حمد",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200365",
+            "isic4_code": "473-1",
+            "isic4_parent_code": "473",
+            "activity_name": "Sale of fuel in specialized stores - Land Service Station",
+            "activity_description": "The activity covers the management and operation of public land-based fuel stations specialized in retail sales only for fuel types such as gasoline, diesel, kerosene, and other approved petroleum fuels."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 1
+      }
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "13",
+      "commercial_name": {
+        "english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "ACTIVE",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Green",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "31/12/2024",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "31/12/2026",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "215",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "1402",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "R 1402",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "614",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "UM AL BAIDH",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "grouplitigation.hq@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 215, Road 1402 (R 1402), Block 614, UM AL BAIDH",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200467",
+            "isic4_code": "5224-2",
+            "isic4_parent_code": "5224",
+            "activity_name": "Cargo handling - Stevedoring",
+            "activity_description": "This activity includes facilities involved mainly in providing services of cargo loading on ships in preparation for shipment or unloading of goods shipped."
+          },
+          {
+            "activity_code": "200452",
+            "isic4_code": "52220-1",
+            "isic4_parent_code": "52220",
+            "activity_name": "Service activities incidental to water transportation - Management and Operation of Ports and Private Jetties",
+            "activity_description": "This activity includes management and operating of the jetty, movement of ships, loading and unloading of the ships container and cargo, as well as storage"
+          },
+          {
+            "activity_code": "200456",
+            "isic4_code": "52220-5",
+            "isic4_parent_code": "52220",
+            "activity_name": "Service activities incidental to water transportation - Bunkering Services",
+            "activity_description": "This activity includes selling of fuel, from specialized vessels designed for that particular task and transferring fuel from one ship to another"
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 3
+      }
+    }
+  ]
+}

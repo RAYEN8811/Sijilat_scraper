@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "cr_number": "999999999",
+    "requested_branch": "1",
+    "source_url": "https://www.sijilat.bh/public-search-cr/search-cr-3.aspx?cr_no=999999999&branch_no=1",
+    "api_endpoint": "https://api.sijilat.bh/api/CRdetails/CompleteCRDetails",
+    "collection_timestamp_utc": "2026-10-16T19:20:57.394604+00:00",
+    "processing_outcome": "NOT_FOUND",
+    "is_simulated": false,
+    "branches_found_count": 0,
+    "branches_extracted_count": 0,
+    "elapsed_seconds": 0.3454
+  },
+  "branches": []
+}

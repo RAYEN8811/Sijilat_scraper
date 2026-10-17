@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "cr_number": "48602",
+    "requested_branch": "1",
+    "source_url": "https://www.sijilat.bh/public-search-cr/search-cr-3.aspx?cr_no=48602&branch_no=1",
+    "api_endpoint": "https://api.sijilat.bh/api/CRdetails/CompleteCRDetails",
+    "collection_timestamp_utc": "2026-10-16T19:20:08.236708+00:00",
+    "processing_outcome": "SUCCESS",
+    "is_simulated": false,
+    "branches_found_count": 13,
+    "branches_extracted_count": 1,
+    "elapsed_seconds": 1.4265
+  },
+  "branch_catalog": [
+    {
+      "cr_number": "48602",
+      "branch_identifier": "1",
+      "branch_name": "BAPCO REFINING B.S.C CLOSED",
+      "status": "UNDER MORTGAGE",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2027"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "2",
+      "branch_name": "CENTRAL MARKET SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "3",
+      "branch_name": "AWALI SERVICE STATION",
+      "status": "DELETED WITH PAYMENT",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2022"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "4",
+      "branch_name": "ALHOORA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "5",
+      "branch_name": "ADLIYA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "6",
+      "branch_name": "RIFFA & SITRA SERVICE STATION",
+      "status": "DELETED WITH PAYMENT",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2022"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "7",
+      "branch_name": "BAHRAIN PETROLEUM COMPANY",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "8",
+      "branch_name": "TOOBLI SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/05/2002",
+      "expiry_date": "01/05/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "9",
+      "branch_name": "THE BAHRAIN PETROLEUM COMPANY B.S.C - CLOSED",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "01/03/2010",
+      "expiry_date": "01/03/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "10",
+      "branch_name": "ALRAWDAH SERVICES",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "18/01/2012",
+      "expiry_date": "18/01/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "11",
+      "branch_name": "WADEE HAYAN STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "23/10/2013",
+      "expiry_date": "23/10/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "12",
+      "branch_name": "NUZHA SERVICE STATION",
+      "status": "SOLD OR LEGAL STATUS CHANGED",
+      "registration_date": "08/11/2016",
+      "expiry_date": "08/11/2020"
+    },
+    {
+      "cr_number": "48602",
+      "branch_identifier": "13",
+      "branch_name": "BAPCO REFINING B.S.C CLOSED",
+      "status": "ACTIVE",
+      "registration_date": "31/12/2024",
+      "expiry_date": "31/12/2026"
+    }
+  ],
+  "branches": [
+    {
+      "cr_number": "48602",
+      "branch_identifier": "1",
+      "commercial_name": {
+        "english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        },
+        "group_english": {
+          "value": "BAPCO REFINING B.S.C CLOSED",
+          "provenance": "RETRIEVED"
+        },
+        "group_arabic": {
+          "value": "بابكو للتكرير ش.م.ب مقفلة",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "legal_form": {
+        "type_description": {
+          "value": "Bahrain Shareholding Company (Closed)",
+          "provenance": "RETRIEVED"
+        },
+        "type_code": {
+          "value": "10",
+          "provenance": "RETRIEVED"
+        },
+        "nationality": {
+          "value": "BAHRAINI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "registration_status": {
+        "status": {
+          "value": "UNDER MORTGAGE",
+          "provenance": "RETRIEVED"
+        },
+        "status_color": {
+          "value": "Black",
+          "provenance": "RETRIEVED"
+        },
+        "registration_date": {
+          "value": "01/05/2002",
+          "provenance": "RETRIEVED"
+        },
+        "expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "bcci_expiry_date": {
+          "value": "01/05/2027",
+          "provenance": "RETRIEVED"
+        },
+        "financial_year_end": {
+          "value": "31/12",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "commercial_address": {
+        "flat_or_shop": {
+          "value": "0",
+          "provenance": "RETRIEVED"
+        },
+        "building": {
+          "value": "245",
+          "provenance": "RETRIEVED"
+        },
+        "road": {
+          "value": "4511",
+          "provenance": "RETRIEVED"
+        },
+        "road_name": {
+          "value": "ROAD 2831",
+          "provenance": "RETRIEVED"
+        },
+        "block": {
+          "value": "945",
+          "provenance": "RETRIEVED"
+        },
+        "town": {
+          "value": "AWALI",
+          "provenance": "RETRIEVED"
+        },
+        "po_box": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "email": {
+          "value": "grouplitigation.hq@bapcoenergies.com",
+          "provenance": "RETRIEVED"
+        },
+        "mobile_phone": {
+          "value": "( +973 ) 38121208",
+          "provenance": "RETRIEVED"
+        },
+        "telephone": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "fax": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "website": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "estore_url": {
+          "value": null,
+          "provenance": "ABSENT_FROM_SOURCE"
+        },
+        "full_formatted_address": {
+          "value": "Building 245, Road 4511 (ROAD 2831), Block 945, AWALI",
+          "provenance": "RETRIEVED"
+        }
+      },
+      "business_activities": {
+        "value": [
+          {
+            "activity_code": "200419",
+            "isic4_code": "4661-5",
+            "isic4_parent_code": "4661",
+            "activity_name": "Sale/Trade of solid, liquid and gaseous fuels and related products - Exporting blended petroleum products.",
+            "activity_description": "This includes the export of blended petroleum products that incorporate supported petroleum products such as diesel and/or kerosene, or derivatives thereof. Please note that this activity does not involve used oils, lubricant waste, or non-petroleum lubricating oils."
+          },
+          {
+            "activity_code": "200075",
+            "isic4_code": "701-1",
+            "isic4_parent_code": "701",
+            "activity_name": "Activities of head offices or Management Offices",
+            "activity_description": "This activity includes the overseeing and managing of other units of the company or enterprise; undertaking the strategic or organizational planning and decision making role of the company or enterprise; exercising operational control and manage the day-to-day operations of their related units. \r\n\r\nThis activity includes activities of: \r\n- Head offices \r\n- Centralized administrative offices \r\n- Corporate offices \r\n- District and regional offices \r\n- Subsidiary management offices \r\n- Restaurants and Coffee-Shops Management\r\n\r\nThis class excludes: \r\n- Activities of holding companies, not engaged in managing"
+          },
+          {
+            "activity_code": "200416",
+            "isic4_code": "4661-2",
+            "isic4_parent_code": "4661",
+            "activity_name": "Sale/Trade of solid, liquid and gaseous fuels and related products - Specialty petroleum products import",
+            "activity_description": "This activity includes the import and re-export of racing fuel in its various types specially designed for high-performance engines and racing vehicle."
+          }
+        ],
+        "provenance": "RETRIEVED",
+        "count": 3
+      }
+    }
+  ]
+}
